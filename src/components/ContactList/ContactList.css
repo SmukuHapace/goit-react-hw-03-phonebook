@@ -1,0 +1,10 @@
+.contacts-content {
+  margin: 20px 30px;
+  list-style-type: decimal;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.contacts-btn {
+  margin-left: 10px;
+}
